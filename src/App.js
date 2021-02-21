@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import "./App.css";
+import "./styles.css";
 import { FetchTodoData, FetchUserData } from "./api";
 import Table from "./Components/Table";
 import User from "./Components/User";
