@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Project Demo [clickMe]( https://react-table-project.netlify.app/)
+### Project [Demo]( https://react-table-project.netlify.app/)
 
 ## Available Scripts
 
